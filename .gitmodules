@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "HRTnomaly"]
 	path = HRTnomaly
-	url = https://github.com/cran/HRTnomaly
+	url = https://github.com/drwolf85/hrtnomaly
 [submodule "dual"]
 	path = dual
 	url = https://github.com/cran/dual
@@ -13,7 +13,7 @@
 	url = https://github.com/cran/inca
 [submodule "plpoisson"]
 	path = plpoisson
-	url = https://github.com/cran/plpoisson
+	url = https://github.com/drwolf85/plpoisson
 [submodule "spMC"]
 	path = spMC
-	url = https://github.com/cran/spMC
+	url = https://github.com/drwolf85/spmc
