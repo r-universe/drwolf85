@@ -16,4 +16,4 @@
 	url = https://github.com/drwolf85/plpoisson
 [submodule "spMC"]
 	path = spMC
-	url = https://github.com/drwolf85/spmc
+	url = https://github.com/cran/spMC
